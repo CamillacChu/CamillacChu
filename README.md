@@ -1,4 +1,4 @@
-## Olá! Pode me chamar de Cami! ❤
+## Oiee! Pode me chamar de Cami! ❤
 
 ### 👩‍🎓 Sobre mim  
 Sou aluna de **Engenharia Mecatrônica** e adoro pesquisar sobre **automação** 🤖.  
