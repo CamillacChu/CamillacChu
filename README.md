@@ -23,10 +23,10 @@ Atualmente estou estudando **Front-End** e **linguagem C para sistemas embarcado
   <!-- Stats -->
   <img height="180em" align="top" src="https://github-readme-stats.vercel.app/api?username=CamillacChu&show_icons=true&theme=tokyonight" />
 
-  <!-- Top Languages -->
+  <!-- Top Languages 
 
   <img height="130em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamillacChu&layout=compact&theme=tokyonight" />
-
+-->
 </div>
 
 ## 🛠️ Linguagens e Tecnologias  
